@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Parser
+comment0.text=\n\ @author\ \ Leah\ Kazenmayer\n\ @version\ 2\n
+comment1.params=
+comment1.target=Parser()
+comment1.text=\n\ Create\ a\ parser\ to\ read\ from\ the\ terminal\ window.\n
+comment2.params=inputLine
+comment2.target=Command\ getCommand(java.lang.String)
+comment2.text=\n\ @return\ The\ next\ command\ from\ the\ user.\n
+comment3.params=
+comment3.target=void\ showCommands()
+numComments=4

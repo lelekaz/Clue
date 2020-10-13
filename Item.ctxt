@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=description
+comment1.target=Item(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getItemDescription()
+comment3.params=c
+comment3.target=void\ setClue(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getClue()
+numComments=5
