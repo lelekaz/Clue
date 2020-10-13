@@ -1,4 +1,4 @@
-public class Drive
+public class Main
 {
     private static Game game;
 
